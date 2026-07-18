@@ -7,8 +7,8 @@
 ![Data License](https://img.shields.io/badge/Data-CC%20BY%204.0-green)
 ![Model](https://img.shields.io/badge/Model-RandomForest-2c3e50)
 
-🔗 **Live demo:** _<!-- paste your Streamlit Cloud link here after deploying, e.g. https://aircast-danyal.streamlit.app -->_
-
+🔗 **Live demo:** [_<!-- paste your Streamlit Cloud link here after deploying, e.g. https://aircast-danyal.streamlit.app -->_
+](https://krjngbxgmrwmfnrnd3uafp.streamlit.app/#next-24-hours-live-forecast-for-islamabad)
 ---
 
 ## Why this project exists
