@@ -7,7 +7,7 @@
 ![Data License](https://img.shields.io/badge/Data-CC%20BY%204.0-green)
 ![Model](https://img.shields.io/badge/Model-RandomForest-2c3e50)
 
-🔗 **Live demo:** (https://krjngbxgmrwmfnrnd3uafp.streamlit.app/#next-24-hours-live-forecast-for-islamabad)
+🔗 **Live demo:** ([https://krjngbxgmrwmfnrnd3uafp.streamlit.app/#next-24-hours-live-forecast-for-islamabad](https://d7pgwb2lnnhzwpwfz4p5hr.streamlit.app/))
 ---
 
 ## Why this project exists
