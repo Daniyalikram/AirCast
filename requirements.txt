@@ -7,5 +7,5 @@ plotly>=5.24
 # IMPORTANT: pin scikit-learn to the SAME version as your Colab notebook,
 # otherwise loading rf_pm25.pkl may warn or fail. Check in Colab with:
 #     import sklearn; print(sklearn.__version__)
-# then replace the line below with e.g.  scikit-learn==1.8.0
+# then replace the line below with e.g.  scikit-learn==1.6.1
 scikit-learn
